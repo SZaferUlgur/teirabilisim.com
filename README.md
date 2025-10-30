@@ -50,22 +50,7 @@ Tüm servisler **modüler** ve **microservice uyumlu** şekilde tasarlanmıştı
 
 ## 📂 Proje Yapısı (Özet)
 
-📁 teirabilisim
-┣ 📁 frontend
-┃ ┗ 📁 src
-┃ ┣ 📁 components
-┃ ┣ 📁 pages
-┃ ┣ 📁 slices
-┃ ┗ 📁 services
-┣ 📁 backend
-┃ ┣ 📁 controllers
-┃ ┣ 📁 models
-┃ ┣ 📁 routes
-┃ ┗ 📜 main.go
-┣ 🖼️ mainpage.jpg
-┣ 🖼️ yazilim.jpg
-┗ 📝 README.md
-
+![Proje Yapısı](./folder_stucture.png)
 ---
 
 ## 💡 Geliştirici Notu
