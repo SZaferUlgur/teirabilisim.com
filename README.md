@@ -52,11 +52,11 @@ Tüm servisler **modüler** ve **microservice uyumlu** şekilde tasarlanmıştı
 
 📁 teirabilisim
 ┣ 📁 frontend
-┃ ┣ 📂 src
-┃ ┃ ┣ 📂 components
-┃ ┃ ┣ 📂 pages
-┃ ┃ ┣ 📂 slices
-┃ ┃ ┗ 📂 services
+┃ ┗ 📂 src
+┃ ┣ 📂 components
+┃ ┣ 📂 pages
+┃ ┣ 📂 slices
+┃ ┗ 📂 services
 ┣ 📁 backend
 ┃ ┣ 📂 controllers
 ┃ ┣ 📂 models
