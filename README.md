@@ -61,11 +61,7 @@ Tüm servisler **modüler** ve **microservice uyumlu** şekilde tasarlanmıştı
 ┃ ┣ 📂 models
 ┃ ┣ 📂 routes
 ┃ ┗ main.go
-┣ mainpage.jpg
-┣ yazilim.jpg
 ┗ README.md
-
-
 
 ---
 
