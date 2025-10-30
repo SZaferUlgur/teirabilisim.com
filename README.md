@@ -52,19 +52,19 @@ Tüm servisler **modüler** ve **microservice uyumlu** şekilde tasarlanmıştı
 
 📁 teirabilisim
 ┣ 📁 frontend
-┃ ┗ 📂 src
-┃ ┣ 📂 components
-┃ ┣ 📂 pages
-┃ ┣ 📂 slices
-┃ ┗ 📂 services
+┃ ┗ 📁 src
+┃ ┣ 📁 components
+┃ ┣ 📁 pages
+┃ ┣ 📁 slices
+┃ ┗ 📁 services
 ┣ 📁 backend
-┃ ┣ 📂 controllers
-┃ ┣ 📂 models
-┃ ┣ 📂 routes
-┃ ┗ main.go
-┣ mainpage.jpg
-┣ yazilim.jpg
-┗ README.md
+┃ ┣ 📁 controllers
+┃ ┣ 📁 models
+┃ ┣ 📁 routes
+┃ ┗ 📜 main.go
+┣ 🖼️ mainpage.jpg
+┣ 🖼️ yazilim.jpg
+┗ 📝 README.md
 
 ---
 
