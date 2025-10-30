@@ -50,7 +50,7 @@ Tüm servisler **modüler** ve **microservice uyumlu** şekilde tasarlanmıştı
 
 ## 📂 Proje Yapısı (Özet)
 
-![Proje Yapısı](./folder_stucture.png)
+![Proje Yapısı](./folder_structure.png)
 ---
 
 ## 💡 Geliştirici Notu
